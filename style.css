@@ -1,0 +1,14 @@
+.container {
+  width: 1280px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.itmes {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+}
