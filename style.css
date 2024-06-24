@@ -1,19 +1,11 @@
-.container {
-  width: 1280px;
-}
-
-.flex {
+.flexs {
   display: flex;
-  /* justify-content: space-evenly; */
-  /* flex-direction:; */
-  /* flex-wrap: wrap-reverse; */
-  /* justify-content: space-evenly; */
-  gap: 10px 20px;
-  justify-content: center;
-  align-items: stretch;
+  justify-content: space-between;
+  height: 200px;
+  flex-direction: column-reverse;
 }
 
-.itmes {
+.boxs {
   background-color: aqua;
-  padding: 30px 50px;
+  padding: 10px 20px;
 }
