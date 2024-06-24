@@ -1,11 +1,17 @@
-.flexs {
+/* .flexs {
   display: flex;
-  justify-content: space-between;
+
   height: 200px;
-  flex-direction: column-reverse;
+  align-items: auto;
 }
 
 .boxs {
   background-color: aqua;
   padding: 10px 20px;
+} */
+
+.grid {
+}
+
+.items {
 }
