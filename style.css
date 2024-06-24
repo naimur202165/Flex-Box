@@ -4,11 +4,16 @@
 
 .flex {
   display: flex;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
+  /* flex-direction:; */
+  /* flex-wrap: wrap-reverse; */
+  /* justify-content: space-evenly; */
+  gap: 10px 20px;
+  justify-content: center;
+  align-items: stretch;
 }
 
 .itmes {
   background-color: aqua;
-  height: 100px;
-  width: 100px;
+  padding: 30px 50px;
 }
